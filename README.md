@@ -1,7 +1,7 @@
 # p5samples
 p5.js sample codes
 
-* LESSON NOTES *
+LESSON NOTES
 
 p5.js --> java based
 processing (can also connect to arduino)
